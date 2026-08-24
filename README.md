@@ -48,7 +48,7 @@ Before installing the Heropack, make sure you have:
 |-----------|--------|
 | Character 1 | ✅ Released |
 | Character 2 | ✅ Released |
-| Character 3 | ? this afternoon |
+| Character 3 | 🛡️ this afternoon |
 
 More characters will be added in future updates.
 
@@ -136,5 +136,5 @@ If you enjoy this Heropack:
 - 🐛 Report bugs
 - 💡 Suggest new ideas
 - 📢 Share the project
-
+- tiktok=NooxTR1
 Thanks for checking out the project! ⚡
