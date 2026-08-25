@@ -10,7 +10,7 @@ This project adds custom characters, abilities, textures and more to FiskHeroes.
 
 ---
 
-## ✨ Features
+ ✨ Features
 
 - 🦸 Custom characters
 - ⚡ Custom abilities
@@ -21,6 +21,7 @@ This project adds custom characters, abilities, textures and more to FiskHeroes.
 - 🛠️ More characters planned
 
 ---
+New version✨✨✨✨
 
 ## 📦 Requirements
 
@@ -48,7 +49,7 @@ Before installing the Heropack, make sure you have:
 |-----------|--------|
 | Character 1 | ✅ Released |
 | Character 2 | ✅ Released |
-| Character 3 | 🛡️ this afternoon |
+| Character 3 | ✅ Released |
 
 More characters will be added in future updates.
 
