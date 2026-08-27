@@ -50,6 +50,7 @@ Before installing the Heropack, make sure you have:
 | Character 1 | ✅ Released |
 | Character 2 | ✅ Released |
 | Character 3 | ✅ Released |
+| Character 4 | 🚧 Planned  |        
 
 More characters will be added in future updates.
 
