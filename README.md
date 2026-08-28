@@ -1,6 +1,11 @@
+A huge update is coming soon. ⚡ ⚡ ⚡ ⚡ ⚡✨✨✨✨
+
+Almost everything will be redesigned, and there will be a significant increase in the number of effects.✨✨✨ 🦸🔥💥
+
+
 # Fiskheroesheropacks
 This hero pack contains some heroes I created myself, set in the cosmic universe.
-# ⚡ FiskHeroes Heropack
+# FiskHeroes Heropack
 
 A custom Heropack made for the **FiskHeroes** Minecraft mod.
 
